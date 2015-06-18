@@ -11,23 +11,23 @@ body {
 
 .container {
   clear: both;
-  width: 960px;
+  width: 100%;
   margin: 0 auto;
 }
 
 .sidebar {
-  width: 300px;
+  width: 22%;
   float: left;
 }
 
 .posts {
-  width: 660px;
+  width: 55%;
   float: left;
   line-height: 1.5;
 }
 
 .post {
-  padding: 20px;
+  padding: 2%;
 }
 
 .post-title {

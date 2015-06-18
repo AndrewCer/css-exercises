@@ -14,3 +14,13 @@ img {
 }
 
 /* Your Code Goes Under This Line */
+/*h-shadow v-shadow blur spread color */
+.box.subtle {
+  box-shadow: 1px 1px 8px 1px rgba(0,0,0,0.1);
+}
+
+.box.fun {
+  margin-left: 20px;
+  box-shadow: 10px 1px 8px 1px rgba(225,0,0,1), -15px -10px 8px 1px rgba(0,0,225,1),
+  1px 15px 8px 1px rgba(0,255,0,1)
+}
